@@ -1,0 +1,11 @@
+jupyterlab
+polars
+pyarrow
+pandas
+numpy
+duckdb
+magic_duckdb
+pipreqs # Coge sólo las librerías utilizadas.
+pyspark[sql]
+pyspark[pandas_on_spark]
+plotly
